@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox6.Text" xml:space="preserve">
+    <value>Рассказчик: Джордж держит 5 личных дел. Он открыл первую папку и увидел давно знакомое имя. Оказалось, это давний друг нашего главного героя. Как только они встретились, оба узнали друг друга и Джорж начал расспрашивать давнего друга…</value>
+  </data>
+  <data name="textBox7.Text" xml:space="preserve">
+    <value>Генри: честно? я запал на одну девушку, думал, всё, любовь до конца, семья, дети, все дела… Ты же знаешь, я не из богатой семьи, я не хотел ей до последнего этого говорить. В моменте я подумал, что она уже любит именно меня, а не деньги и статус, поэтому я начал ей рассказывать про себя правду. Как только она узнала, что я на самом деле без гроша за спиной, сразу начала меня сливать…</value>
+  </data>
+  <data name="textBox13.Text" xml:space="preserve">
+    <value>Рассказчик: Джордж привел первого должника на место. Но вдруг подъезжает машина, оттуда вылезают двое людей в черных костюмах. Они подходят к должнику, начинают его бить и заталкивать в машину. гг хотел хоть как-то помочь своему давнему другу</value>
+  </data>
+  <data name="textBox16.Text" xml:space="preserve">
+    <value>Рассказчик: главный герой открывает папку с информацией про второго должника. Читая про него информацию он понимает, что он, итак, достаточно богатый человек. Джордж находит его в окружении охраны и понимает, сейчас ему не добрать до него.</value>
+  </data>
+  <data name="textBox20.Text" xml:space="preserve">
+    <value>Рассказчик: Джорджу на телефон приходит сообщение с прикрепленной геопозицией. Он туда приходит и видит бандита смокинга и мертвого водителя. бандит протягивает ему новый комплект одежды и ключи от машины.</value>
+  </data>
+  <data name="textBox30.Text" xml:space="preserve">
+    <value>Генри: Я хотел собрать денег, чтобы улучшить жизнь для нищих. Всё это слишком сильно затянулось… Начали ходить слухи, что я хочу просто всех кинуть на деньги, одни стали меня ненавидеть, другие опасаться, но есть и третьи, которые хотят моей смерти… сейчас я фактически банкрот, деньги у так называемого «смокинга» я взял, чтобы нанять охрану…</value>
+  </data>
+  <data name="textBox40.Text" xml:space="preserve">
+    <value>Лукас: Я с рождения очень бедный человек, никогда ничего своего не было, всегда или воровал или попрошайничал. В какой то момент я осознал, что я ничего не стою, ничего не добился. Поэтому решил взять наибольшую сумму денег, которую только мог получить. Стал жить припеваючи, машины, женщины, дорогой алкоголь и подобное. Но сейчас деньги почти кончились, всё мигом исчезло и сейчас осталось буквально пару кронь.</value>
+  </data>
+  <data name="textBox41.Text" xml:space="preserve">
+    <value>Рассказчик: Джодж говорит, что даст ему денег, чтобы начать новую жизнь, но за ними следят, поэтому Джордж и Лукас начали драку, в ходе которой Джорж «перестарался» и ударил его камнем в висок, после чего сообщил банде, что должник умер, ему, конечно же, «верят».</value>
+  </data>
+  <data name="textBox45.Text" xml:space="preserve">
+    <value>Собеседник: Я знаю на кого ты работаешь. Я копаю под эту мафию. Мой брат работал там и какое-то время назад бесследно исчез. Если ты будешь со мной сотрудничать, то ты можешь рассчитывать на программу по защите свидетелей.</value>
+  </data>
+  <data name="textBox54.Text" xml:space="preserve">
+    <value>Рассказчик: Джорджу приходит сообщение с текстом «Если бы ты следовал моим правилам, то он бы остался в живых» и приходит фотография трупа Барри. Джордж слетает с катушек. Он буквально вламывается в дом пятого должника и жесточайше его избивает. Пятый молил о пощаде, но Джордж уже не мог остановится. По итогу он убил пятого. Джордж позвонил Смокингу.</value>
+  </data>
+</root>
